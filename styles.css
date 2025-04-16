@@ -277,7 +277,7 @@ header {
 	width: 980px;
 	height: 600px;
 	background-color: #F6F3EE;
-	background-image: url(koseilp-img/haikei-1.png);
+	background-image: url(https://github.com/satomiman/koseiwan_lp.github.io/blob/main/haikei-1.png);
 	background-size: cover;
 	background-position: center;
 	border-radius: 30px;
@@ -636,7 +636,7 @@ header {
 	text-align: left;
 }
 #nagare {
-	background-image: url(koseilp-img/haikei-2.png);
+	background-image: url(https://github.com/satomiman/koseiwan_lp.github.io/blob/main/haikei-2.png);
 	width: 100%;
 	height: 1900px;
 	position: relative;
@@ -799,7 +799,7 @@ header {
 }
 .mesage_box {
 	margin: 0 auto;
-	background-image: url(koseilp-img/mesage-2.png);
+	background-image: url(https://github.com/satomiman/koseiwan_lp.github.io/blob/main/mesage-2.png);
 	width: 690px;
 	height: 100%;
 	background-color: #fff;
