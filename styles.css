@@ -1072,6 +1072,7 @@ footer {
 	}
 	.komaru_3 {
 		width: 131px;
+		bottom: -8%;
 	}
 
 	.left_barun {
@@ -1156,7 +1157,7 @@ footer {
 		align-items: center;
 	}
 	.tokunaka_t {
-		margin: 20px 85px 15px 86px;
+		margin: 20px 0 15px 70px;
 	}
 	.tokunaka_p {
 		margin: 0 auto;
